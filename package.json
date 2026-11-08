@@ -11,7 +11,9 @@
     "seed": "bun run scripts/seed-sample.ts",
     "collect": "bun run scripts/collect.ts",
     "import": "bun run scripts/import.ts",
-    "validate": "bun run scripts/validate.ts"
+    "validate": "bun run scripts/validate.ts",
+    "daily": "bash scripts/daily.sh",
+    "daily:check": "bun run collect && bun run validate"
   },
   "dependencies": {
     "next": "16.4.5",
