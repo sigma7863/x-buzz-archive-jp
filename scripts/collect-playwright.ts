@@ -45,7 +45,7 @@ const until = addDay(date, 1);
 const query = `lang:ja min_faves:1000 since:${date} until:${until}`;
 const url = `https://x.com/search?q=${encodeURIComponent(query)}&src=typed_query&f=live`;
 
-const userDataDir = expand(process.env.X_USER_DATA_DIR ?? process.env.X_PROFILE ?? "~/.config/google-chrome");
+const userDataDir = expand(process.env.X_USER_DATA_DIR ?? process.env.X_PROFILE ?? "~/Library/Application Support/Google/Chrome");
 
 if (!existsSync(userDataDir)) {
   console.error(`Chromeプロファイルが見つかりません: ${userDataDir}`);
