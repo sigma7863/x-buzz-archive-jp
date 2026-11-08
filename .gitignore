@@ -43,3 +43,7 @@ next-env.d.ts
 # x-buzz-archive-jp data temp
 data/*.xquery
 data/import-*.json
+
+# 認証情報（storageState / プロファイルコピー）は絶対コミットしない
+.x-storage*.json
+.x-profile/
