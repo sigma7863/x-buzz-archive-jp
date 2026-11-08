@@ -9,8 +9,10 @@
     "likes": 167443,
     "retweets": 15425,
     "replies": 276,
-    "genres": [],
-    "genre_version": "v1-keyword"
+    "genres": [
+      "テクノロジー"
+    ],
+    "genre_version": "v2-llm"
   },
   {
     "id": "2115407995316420707",
@@ -22,8 +24,10 @@
     "likes": 153760,
     "retweets": 10811,
     "replies": 297,
-    "genres": [],
-    "genre_version": "v1-keyword"
+    "genres": [
+      "日常系"
+    ],
+    "genre_version": "v2-llm"
   },
   {
     "id": "2115375523358548328",
@@ -35,8 +39,10 @@
     "likes": 114709,
     "retweets": 0,
     "replies": 268,
-    "genres": [],
-    "genre_version": "v1-keyword"
+    "genres": [
+      "グルメ・生活"
+    ],
+    "genre_version": "v2-llm"
   },
   {
     "id": "2115407564867621209",
@@ -48,8 +54,10 @@
     "likes": 111006,
     "retweets": 0,
     "replies": 476,
-    "genres": [],
-    "genre_version": "v1-keyword"
+    "genres": [
+      "政治・社会"
+    ],
+    "genre_version": "v2-llm"
   },
   {
     "id": "2115433996280901957",
@@ -61,8 +69,10 @@
     "likes": 107437,
     "retweets": 7825,
     "replies": 55,
-    "genres": [],
-    "genre_version": "v1-keyword"
+    "genres": [
+      "日常系"
+    ],
+    "genre_version": "v2-llm"
   },
   {
     "id": "2115423449762222513",
@@ -74,8 +84,10 @@
     "likes": 106577,
     "retweets": 6134,
     "replies": 300,
-    "genres": [],
-    "genre_version": "v1-keyword"
+    "genres": [
+      "日常系"
+    ],
+    "genre_version": "v2-llm"
   },
   {
     "id": "2115427109221081480",
@@ -87,8 +99,10 @@
     "likes": 105766,
     "retweets": 4373,
     "replies": 35,
-    "genres": [],
-    "genre_version": "v1-keyword"
+    "genres": [
+      "音楽・芸能"
+    ],
+    "genre_version": "v2-llm"
   },
   {
     "id": "2115429315903107104",
@@ -100,8 +114,10 @@
     "likes": 99469,
     "retweets": 4890,
     "replies": 55,
-    "genres": [],
-    "genre_version": "v1-keyword"
+    "genres": [
+      "日常系"
+    ],
+    "genre_version": "v2-llm"
   },
   {
     "id": "2115391512217571740",
@@ -113,7 +129,9 @@
     "likes": 89241,
     "retweets": 4655,
     "replies": 70,
-    "genres": [],
-    "genre_version": "v1-keyword"
+    "genres": [
+      "アニメ・漫画"
+    ],
+    "genre_version": "v2-llm"
   }
 ]

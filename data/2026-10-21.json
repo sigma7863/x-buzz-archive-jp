@@ -9,8 +9,10 @@
     "likes": 235977,
     "retweets": 36101,
     "replies": 73,
-    "genres": [],
-    "genre_version": "v1-keyword"
+    "genres": [
+      "アニメ・漫画"
+    ],
+    "genre_version": "v2-llm"
   },
   {
     "id": "2113230487598903444",
@@ -22,8 +24,10 @@
     "likes": 198592,
     "retweets": 0,
     "replies": 1240,
-    "genres": [],
-    "genre_version": "v1-keyword"
+    "genres": [
+      "音楽・芸能"
+    ],
+    "genre_version": "v2-llm"
   },
   {
     "id": "2113228602892603480",
@@ -35,8 +39,10 @@
     "likes": 155700,
     "retweets": 5355,
     "replies": 21,
-    "genres": [],
-    "genre_version": "v1-keyword"
+    "genres": [
+      "日常系"
+    ],
+    "genre_version": "v2-llm"
   },
   {
     "id": "2113266466552442900",
@@ -48,8 +54,10 @@
     "likes": 153989,
     "retweets": 0,
     "replies": 722,
-    "genres": [],
-    "genre_version": "v1-keyword"
+    "genres": [
+      "日常系"
+    ],
+    "genre_version": "v2-llm"
   },
   {
     "id": "2113234671480066367",
@@ -61,8 +69,10 @@
     "likes": 137977,
     "retweets": 5413,
     "replies": 177,
-    "genres": [],
-    "genre_version": "v1-keyword"
+    "genres": [
+      "日常系"
+    ],
+    "genre_version": "v2-llm"
   },
   {
     "id": "2113226858674389303",
@@ -74,7 +84,9 @@
     "likes": 134297,
     "retweets": 0,
     "replies": 516,
-    "genres": [],
-    "genre_version": "v1-keyword"
+    "genres": [
+      "政治・社会"
+    ],
+    "genre_version": "v2-llm"
   }
 ]

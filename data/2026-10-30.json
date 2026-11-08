@@ -9,8 +9,10 @@
     "likes": 521702,
     "retweets": 23806,
     "replies": 533,
-    "genres": [],
-    "genre_version": "v1-keyword"
+    "genres": [
+      "日常系"
+    ],
+    "genre_version": "v2-llm"
   },
   {
     "id": "2116515810785337407",
@@ -22,8 +24,10 @@
     "likes": 226878,
     "retweets": 9280,
     "replies": 57,
-    "genres": [],
-    "genre_version": "v1-keyword"
+    "genres": [
+      "音楽・芸能"
+    ],
+    "genre_version": "v2-llm"
   },
   {
     "id": "2116523852214018402",
@@ -35,8 +39,10 @@
     "likes": 169542,
     "retweets": 9359,
     "replies": 79,
-    "genres": [],
-    "genre_version": "v1-keyword"
+    "genres": [
+      "日常系"
+    ],
+    "genre_version": "v2-llm"
   },
   {
     "id": "2116504439356043386",
@@ -48,8 +54,10 @@
     "likes": 155408,
     "retweets": 5617,
     "replies": 46,
-    "genres": [],
-    "genre_version": "v1-keyword"
+    "genres": [
+      "日常系"
+    ],
+    "genre_version": "v2-llm"
   },
   {
     "id": "2116500540591083669",
@@ -61,7 +69,9 @@
     "likes": 140395,
     "retweets": 8367,
     "replies": 315,
-    "genres": [],
-    "genre_version": "v1-keyword"
+    "genres": [
+      "日常系"
+    ],
+    "genre_version": "v2-llm"
   }
 ]

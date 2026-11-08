@@ -10,10 +10,9 @@
     "retweets": 0,
     "replies": 707,
     "genres": [
-      "日常系",
       "テクノロジー"
     ],
-    "genre_version": "v1-keyword"
+    "genre_version": "v2-llm"
   },
   {
     "id": "2112890642590564386",
@@ -25,8 +24,10 @@
     "likes": 395693,
     "retweets": 0,
     "replies": 4939,
-    "genres": [],
-    "genre_version": "v1-keyword"
+    "genres": [
+      "テクノロジー"
+    ],
+    "genre_version": "v2-llm"
   },
   {
     "id": "2112880803692855309",
@@ -38,8 +39,10 @@
     "likes": 263377,
     "retweets": 0,
     "replies": 192,
-    "genres": [],
-    "genre_version": "v1-keyword"
+    "genres": [
+      "日常系"
+    ],
+    "genre_version": "v2-llm"
   },
   {
     "id": "2112862620252590579",
@@ -51,8 +54,10 @@
     "likes": 180212,
     "retweets": 12547,
     "replies": 0,
-    "genres": [],
-    "genre_version": "v1-keyword"
+    "genres": [
+      "日常系"
+    ],
+    "genre_version": "v2-llm"
   },
   {
     "id": "2112897334522872042",
@@ -64,8 +69,10 @@
     "likes": 137069,
     "retweets": 0,
     "replies": 141,
-    "genres": [],
-    "genre_version": "v1-keyword"
+    "genres": [
+      "テクノロジー"
+    ],
+    "genre_version": "v2-llm"
   },
   {
     "id": "2112848932175065278",
@@ -77,8 +84,10 @@
     "likes": 118905,
     "retweets": 0,
     "replies": 372,
-    "genres": [],
-    "genre_version": "v1-keyword"
+    "genres": [
+      "音楽・芸能"
+    ],
+    "genre_version": "v2-llm"
   },
   {
     "id": "2112859721007005988",
@@ -90,7 +99,9 @@
     "likes": 115160,
     "retweets": 0,
     "replies": 107,
-    "genres": [],
-    "genre_version": "v1-keyword"
+    "genres": [
+      "テクノロジー"
+    ],
+    "genre_version": "v2-llm"
   }
 ]

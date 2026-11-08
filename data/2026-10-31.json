@@ -9,8 +9,10 @@
     "likes": 2402,
     "retweets": 111,
     "replies": 0,
-    "genres": [],
-    "genre_version": "v1-keyword"
+    "genres": [
+      "音楽・芸能"
+    ],
+    "genre_version": "v2-llm"
   },
   {
     "id": "2116908067325710525",
@@ -22,8 +24,10 @@
     "likes": 3606,
     "retweets": 162,
     "replies": 0,
-    "genres": [],
-    "genre_version": "v1-keyword"
+    "genres": [
+      "創作・イラスト"
+    ],
+    "genre_version": "v2-llm"
   },
   {
     "id": "2116908064968479011",
@@ -35,8 +39,10 @@
     "likes": 1827,
     "retweets": 124,
     "replies": 0,
-    "genres": [],
-    "genre_version": "v1-keyword"
+    "genres": [
+      "日常系"
+    ],
+    "genre_version": "v2-llm"
   },
   {
     "id": "2116908072396611921",
@@ -48,8 +54,10 @@
     "likes": 1546,
     "retweets": 104,
     "replies": 0,
-    "genres": [],
-    "genre_version": "v1-keyword"
+    "genres": [
+      "創作・イラスト"
+    ],
+    "genre_version": "v2-llm"
   },
   {
     "id": "2116908083956105338",
@@ -61,7 +69,9 @@
     "likes": 1190,
     "retweets": 232,
     "replies": 1,
-    "genres": [],
-    "genre_version": "v1-keyword"
+    "genres": [
+      "創作・イラスト"
+    ],
+    "genre_version": "v2-llm"
   }
 ]
