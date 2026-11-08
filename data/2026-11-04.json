@@ -1,32 +1,88 @@
 [
   {
-    "id": "onAir_001",
-    "url": "https://x.com/example/status/7804279881676362000",
-    "text": "今夜のライブ配信、チャットが止まらなくて面白い。",
-    "author": "@onAir_001",
-    "author_url": "https://x.com/onAir_001",
-    "posted_at": "2026-11-04T21:00:00+09:00",
-    "likes": 5021,
-    "retweets": 901,
-    "replies": 502,
-    "views": 602520,
-    "genres": [],
-    "genre_version": null,
-    "is_sample": true
+    "id": "2118357618905461084",
+    "url": "https://x.com/MezzoMikiD/status/2118357618905461084",
+    "text": "9月28日から休止していた\n東京ディズニーシー\n「タワー・オブ・テラー」\n11月6日から再開です☆",
+    "author": "@MezzoMikiD",
+    "author_url": "https://x.com/MezzoMikiD",
+    "posted_at": "2026-11-05T14:59:48.000Z",
+    "likes": 4041,
+    "retweets": 314,
+    "replies": 4,
+    "genres": [
+      "音楽・芸能",
+      "テクノロジー"
+    ],
+    "genre_version": "v1-keyword"
   },
   {
-    "id": "demo_0006",
-    "url": "https://x.com/example/status/6589515604273742000",
-    "text": "React Router v7のSSR、やっぱり直感的だな。",
-    "author": "@demo_0006",
-    "author_url": "https://x.com/demo_0006",
-    "posted_at": "2026-11-04T11:33:00+09:00",
-    "likes": 1234,
-    "retweets": 180,
-    "replies": 123,
-    "views": 148080,
+    "id": "2118357664967340368",
+    "url": "https://x.com/MADOROMI_IDOL/status/2118357664967340368",
+    "text": "アルコール組とノンアル組",
+    "author": "@MADOROMI_IDOL",
+    "author_url": "https://x.com/MADOROMI_IDOL",
+    "posted_at": "2026-11-05T14:59:59.000Z",
+    "likes": 3062,
+    "retweets": 211,
+    "replies": 0,
     "genres": [],
-    "genre_version": null,
-    "is_sample": true
+    "genre_version": "v1-keyword"
+  },
+  {
+    "id": "2118357604489650554",
+    "url": "https://x.com/papapa_51/status/2118357604489650554",
+    "text": "三沢😒",
+    "author": "@papapa_51",
+    "author_url": "https://x.com/papapa_51",
+    "posted_at": "2026-11-05T14:59:44.000Z",
+    "likes": 2368,
+    "retweets": 188,
+    "replies": 1,
+    "genres": [],
+    "genre_version": "v1-keyword"
+  },
+  {
+    "id": "2118357665663643744",
+    "url": "https://x.com/step_step_annyo/status/2118357665663643744",
+    "text": "時オカリメイクありがとうございます…\nキャッホ～ッ！！\n#OcarinaOfTime　#ootfanart",
+    "author": "@step_step_annyo",
+    "author_url": "https://x.com/step_step_annyo",
+    "posted_at": "2026-11-05T14:59:59.000Z",
+    "likes": 2333,
+    "retweets": 401,
+    "replies": 0,
+    "genres": [
+      "日常系",
+      "ゲーム"
+    ],
+    "genre_version": "v1-keyword"
+  },
+  {
+    "id": "2118357639671525526",
+    "url": "https://x.com/mujinneki22222/status/2118357639671525526",
+    "text": "⚠大捏造サイバーパンク衣装\nこういうの似合うと思うんです。似合います。",
+    "author": "@mujinneki22222",
+    "author_url": "https://x.com/mujinneki22222",
+    "posted_at": "2026-11-05T14:59:53.000Z",
+    "likes": 1193,
+    "retweets": 88,
+    "replies": 1,
+    "genres": [],
+    "genre_version": "v1-keyword"
+  },
+  {
+    "id": "2118357617827606856",
+    "url": "https://x.com/singing_hero_/status/2118357617827606856",
+    "text": "デクくんのヒーロー性の芯って｢救けが必要な人は救ける｣だと思ってるんだけど、これの一番すごいというか緑谷出久を緑谷出久たらしめているところ、彼を主人公にしているところって｢救けが必要｣の内訳が｢僕がその人は救けが必要だと思ったら状況も相手の意志も無視して救ける｣なとこだと思う。",
+    "author": "@singing_hero_",
+    "author_url": "https://x.com/singing_hero_",
+    "posted_at": "2026-11-05T14:59:47.000Z",
+    "likes": 1173,
+    "retweets": 107,
+    "replies": 1,
+    "genres": [
+      "アニメ・漫画"
+    ],
+    "genre_version": "v1-keyword"
   }
 ]

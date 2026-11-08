@@ -1,47 +1,101 @@
 [
   {
-    "id": "demo_0001",
-    "url": "https://x.com/example/status/2287310773785522000",
-    "text": "今日は完全に詰んだ。あと1週間で期末なのに、資料が1枚もできてない。",
-    "author": "@demo_0001",
-    "author_url": "https://x.com/demo_0001",
-    "posted_at": "2026-11-02T09:12:00+09:00",
-    "likes": 3421,
-    "retweets": 512,
-    "replies": 342,
-    "views": 410520,
+    "id": "2117632824216019314",
+    "url": "https://x.com/otohacomet_888/status/2117632824216019314",
+    "text": "デートの待ち合わせケイちゃんの𝑳‌𝑶‌𝑽‌𝑬",
+    "author": "@otohacomet_888",
+    "author_url": "https://x.com/otohacomet_888",
+    "posted_at": "2026-11-03T14:59:43.000Z",
+    "likes": 5597,
+    "retweets": 420,
+    "replies": 6,
     "genres": [],
-    "genre_version": null,
-    "is_sample": true
+    "genre_version": "v1-keyword"
   },
   {
-    "id": "demo_0002",
-    "url": "https://x.com/example/status/5393637508909721000",
-    "text": "ラーメン二郎松戸店、開店から1時間で完売なのさすが過ぎる。豚が別格だった。",
-    "author": "@demo_0002",
-    "author_url": "https://x.com/demo_0002",
-    "posted_at": "2026-11-02T13:40:00+09:00",
-    "likes": 2890,
-    "retweets": 410,
-    "replies": 289,
-    "views": 346800,
+    "id": "2117632822672597423",
+    "url": "https://x.com/C4Dbeginner/status/2117632822672597423",
+    "text": "僕も同じ意見で、今この時代にメッセージを出すときに－1.0の「敗戦のおかげで反省し西側の善き同盟国に生まれ変わりました」の方が危険だったと思う。だから0.0で「ふざけるな、まだアレを許してねえぞ」というメッセージを出したのには驚いた。今の世界情勢ではよほどその方が重い意味を持つ。",
+    "author": "@C4Dbeginner",
+    "author_url": "https://x.com/C4Dbeginner",
+    "posted_at": "2026-11-03T14:59:43.000Z",
+    "likes": 3568,
+    "retweets": 627,
+    "replies": 7,
     "genres": [],
-    "genre_version": null,
-    "is_sample": true
+    "genre_version": "v1-keyword"
   },
   {
-    "id": "demo_0003",
-    "url": "https://x.com/example/status/7536878378863117000",
-    "text": "生成AIで朝ドラの紹介ポスターを作ってみた。色味がマジで良い。",
-    "author": "@demo_0003",
-    "author_url": "https://x.com/demo_0003",
-    "posted_at": "2026-11-02T18:02:00+09:00",
-    "likes": 1987,
-    "retweets": 301,
-    "replies": 198,
-    "views": 238440,
+    "id": "2117632817073152181",
+    "url": "https://x.com/aina_suzuki723/status/2117632817073152181",
+    "text": "おやすみなさい🐶🌙",
+    "author": "@aina_suzuki723",
+    "author_url": "https://x.com/aina_suzuki723",
+    "posted_at": "2026-11-03T14:59:41.000Z",
+    "likes": 3539,
+    "retweets": 496,
+    "replies": 100,
+    "genres": [
+      "日常系",
+      "グルメ・生活"
+    ],
+    "genre_version": "v1-keyword"
+  },
+  {
+    "id": "2117632819501711437",
+    "url": "https://x.com/Richinosabu/status/2117632819501711437",
+    "text": "リンネア",
+    "author": "@Richinosabu",
+    "author_url": "https://x.com/Richinosabu",
+    "posted_at": "2026-11-03T14:59:42.000Z",
+    "likes": 1780,
+    "retweets": 95,
+    "replies": 0,
     "genres": [],
-    "genre_version": null,
-    "is_sample": true
+    "genre_version": "v1-keyword"
+  },
+  {
+    "id": "2117632892054724747",
+    "url": "https://x.com/josinohimitsu/status/2117632892054724747",
+    "text": "ふざけなしに、今日もお客さんにCM出演おめでとうとか、出演者の方々にCM見ましたよとか、言っていただき、かなり、感謝\n全ては、LUNA SEAと、日本マクドナルドが、愛されている所以",
+    "author": "@josinohimitsu",
+    "author_url": "https://x.com/josinohimitsu",
+    "posted_at": "2026-11-03T14:59:59.000Z",
+    "likes": 1384,
+    "retweets": 147,
+    "replies": 0,
+    "genres": [
+      "日常系",
+      "グルメ・生活"
+    ],
+    "genre_version": "v1-keyword"
+  },
+  {
+    "id": "2117632865932550578",
+    "url": "https://x.com/mizuho_umemura/status/2117632865932550578",
+    "text": "来年の今日は文化の日・明治の日として11月3日を祝えるように国会議員として頑張ります😌",
+    "author": "@mizuho_umemura",
+    "author_url": "https://x.com/mizuho_umemura",
+    "posted_at": "2026-11-03T14:59:53.000Z",
+    "likes": 1320,
+    "retweets": 277,
+    "replies": 15,
+    "genres": [
+      "政治・社会"
+    ],
+    "genre_version": "v1-keyword"
+  },
+  {
+    "id": "2117632855224512731",
+    "url": "https://x.com/meow_neco_/status/2117632855224512731",
+    "text": "だからさァ‼️わたしは四人の絆に弱いんだってェ‼️四人が追い詰められた時にその場に自分が残れば一番勝率が高いと判断して残る律さんとか、それに従わずに共に戦おうとする蓮さんとか、律さんの気持ちを汲んで蓮さんを引きずって撤退する奏斗さんとか、走り出す前に最後に視線をふ、と投げて「……こん",
+    "author": "@meow_neco_",
+    "author_url": "https://x.com/meow_neco_",
+    "posted_at": "2026-11-03T14:59:51.000Z",
+    "likes": 1035,
+    "retweets": 51,
+    "replies": 2,
+    "genres": [],
+    "genre_version": "v1-keyword"
   }
 ]

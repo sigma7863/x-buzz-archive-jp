@@ -9,6 +9,7 @@
 //   1) 対象クエリを生成
 //   2) 手動でブラウザ等から取ったJSON/CSVを受け付ける (scripts/import.ts)
 // の責務分離を前提に、クエリ生成 + ファイル検証 + 並び替えまでを担当する。
+// 実績: 2026-11 で browse (Chrome) の X検索タブから直接抽出して 7日分 46件 取れた。
 // 将来は Playwright でX検索画面の自動取得に差し替える前提。
 import { existsSync, readFileSync, writeFileSync } from "fs";
 import { join } from "path";

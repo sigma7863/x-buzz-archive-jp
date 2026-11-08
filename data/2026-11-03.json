@@ -1,32 +1,71 @@
 [
   {
-    "id": "demo_0004",
-    "url": "https://x.com/example/status/2867953395092273000",
-    "text": "雨の日の登山はやめろと朝から言ったのに、頂上はガスで何も見えなかった。でも遭難しなくてよかった。",
-    "author": "@demo_0004",
-    "author_url": "https://x.com/demo_0004",
-    "posted_at": "2026-11-03T08:20:00+09:00",
-    "likes": 4123,
-    "retweets": 698,
-    "replies": 412,
-    "views": 494760,
-    "genres": [],
-    "genre_version": null,
-    "is_sample": true
+    "id": "2117995279110853069",
+    "url": "https://x.com/twitcasting_jp/status/2117995279110853069",
+    "text": "【ツイキャス／サービスの一部再開について】\n本日11月4日（水）、ツイキャスのWeb版サービスを一部再開いたしました。",
+    "author": "@twitcasting_jp",
+    "author_url": "https://x.com/twitcasting_jp",
+    "posted_at": "2026-11-04T14:59:59.000Z",
+    "likes": 6955,
+    "retweets": 4716,
+    "replies": 82,
+    "genres": [
+      "テクノロジー"
+    ],
+    "genre_version": "v1-keyword"
   },
   {
-    "id": "demo_0005",
-    "url": "https://x.com/example/status/3025178408921012000",
-    "text": "駅のベンチで寝てたおばちゃんが「元気出して」ってお茶をくれた。日本って優しい。",
-    "author": "@demo_0005",
-    "author_url": "https://x.com/demo_0005",
-    "posted_at": "2026-11-03T16:15:00+09:00",
-    "likes": 2566,
-    "retweets": 389,
-    "replies": 256,
-    "views": 307920,
+    "id": "2117995231027314718",
+    "url": "https://x.com/tomitakunwanko/status/2117995231027314718",
+    "text": "⭐️インスタストーリーエフェクト⭐️\n\n『11月5日はいいおとこの日！！』\n\n※ご使用ご自由にどうぞᐢɞ̴̶̷ ·̫ ɞ̴̶̷ᐢ⊃💕\n\nストーリー エフェクト 素材 背景透過 オタク",
+    "author": "@tomitakunwanko",
+    "author_url": "https://x.com/tomitakunwanko",
+    "posted_at": "2026-11-04T14:59:48.000Z",
+    "likes": 3451,
+    "retweets": 461,
+    "replies": 3,
     "genres": [],
-    "genre_version": null,
-    "is_sample": true
+    "genre_version": "v1-keyword"
+  },
+  {
+    "id": "2117995241949233250",
+    "url": "https://x.com/rryn_meow_/status/2117995241949233250",
+    "text": "やめてください　怖いです",
+    "author": "@rryn_meow_",
+    "author_url": "https://x.com/rryn_meow_",
+    "posted_at": "2026-11-04T14:59:50.000Z",
+    "likes": 1876,
+    "retweets": 86,
+    "replies": 0,
+    "genres": [],
+    "genre_version": "v1-keyword"
+  },
+  {
+    "id": "2117995260760752384",
+    "url": "https://x.com/erichan_akb48/status/2117995260760752384",
+    "text": "#いい推しの日　滑り込み！\nいつもありがとう☺️",
+    "author": "@erichan_akb48",
+    "author_url": "https://x.com/erichan_akb48",
+    "posted_at": "2026-11-04T14:59:55.000Z",
+    "likes": 1826,
+    "retweets": 232,
+    "replies": 68,
+    "genres": [
+      "日常系"
+    ],
+    "genre_version": "v1-keyword"
+  },
+  {
+    "id": "2117995219258069363",
+    "url": "https://x.com/chaptok_00/status/2117995219258069363",
+    "text": "明日サクヤとルトくんの何かが上がるっぽい🤔🤔🤔",
+    "author": "@chaptok_00",
+    "author_url": "https://x.com/chaptok_00",
+    "posted_at": "2026-11-04T14:59:45.000Z",
+    "likes": 1770,
+    "retweets": 42,
+    "replies": 0,
+    "genres": [],
+    "genre_version": "v1-keyword"
   }
 ]

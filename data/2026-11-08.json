@@ -1,32 +1,135 @@
 [
   {
-    "id": "demo_0012",
-    "url": "https://x.com/example/status/3338120491506425300",
-    "text": "日曜日出勤のスタバが混みすぎてリモートに戻りたくなった。",
-    "author": "@demo_0012",
-    "author_url": "https://x.com/demo_0012",
-    "posted_at": "2026-11-08T09:45:00+09:00",
-    "likes": 1890,
-    "retweets": 256,
-    "replies": 189,
-    "views": 226800,
-    "genres": [],
-    "genre_version": null,
-    "is_sample": true
+    "id": "2119464491591315934",
+    "url": "https://x.com/morinoya_3/status/2119464491591315934",
+    "text": "# いいねした人のメディア欄覗いて素敵絵を私の絵柄で描いてもいいですか",
+    "author": "@morinoya_3",
+    "author_url": "https://x.com/morinoya_3",
+    "posted_at": "2026-11-08T16:18:07.000Z",
+    "likes": 3342,
+    "retweets": 129,
+    "replies": 4,
+    "genres": [
+      "創作・イラスト"
+    ],
+    "genre_version": "v1-keyword"
   },
   {
-    "id": "demo_0013",
-    "url": "https://x.com/example/status/3184670913949566000",
-    "text": "AIが書いた詩がエモくて泣いた。",
-    "author": "@demo_0013",
-    "author_url": "https://x.com/demo_0013",
-    "posted_at": "2026-11-08T22:15:00+09:00",
-    "likes": 5432,
-    "retweets": 789,
-    "replies": 543,
-    "views": 651840,
+    "id": "2119462900318507022",
+    "url": "https://x.com/mikage0495/status/2119462900318507022",
+    "text": "ス",
+    "author": "@mikage0495",
+    "author_url": "https://x.com/mikage0495",
+    "posted_at": "2026-11-08T16:11:47.000Z",
+    "likes": 2884,
+    "retweets": 292,
+    "replies": 4,
     "genres": [],
-    "genre_version": null,
-    "is_sample": true
+    "genre_version": "v1-keyword"
+  },
+  {
+    "id": "2119466353505763768",
+    "url": "https://x.com/Saiki_Supadari/status/2119466353505763768",
+    "text": "配信ご視聴ありがとうございました！\nたろうくんはいってきました\nめっちゃ面白い作品だったな！\nストーリーの満足感がめっちゃあるわ！\nホラーゲームの楽しさを改めて感じれてよかった",
+    "author": "@Saiki_Supadari",
+    "author_url": "https://x.com/Saiki_Supadari",
+    "posted_at": "2026-11-08T16:25:31.000Z",
+    "likes": 2077,
+    "retweets": 300,
+    "replies": 69,
+    "genres": [
+      "日常系",
+      "ゲーム",
+      "音楽・芸能"
+    ],
+    "genre_version": "v1-keyword"
+  },
+  {
+    "id": "2119467067770642882",
+    "url": "https://x.com/7216_2nd/status/2119467067770642882",
+    "text": "ねんねのじかんだよ",
+    "author": "@7216_2nd",
+    "author_url": "https://x.com/7216_2nd",
+    "posted_at": "2026-11-08T16:28:21.000Z",
+    "likes": 1870,
+    "retweets": 137,
+    "replies": 70,
+    "genres": [
+      "日常系",
+      "創作・イラスト"
+    ],
+    "genre_version": "v1-keyword"
+  },
+  {
+    "id": "2119467245663584456",
+    "url": "https://x.com/DONBURA11/status/2119467245663584456",
+    "text": "舌ピアスに興奮する優等生君\n#創作BL",
+    "author": "@DONBURA11",
+    "author_url": "https://x.com/DONBURA11",
+    "posted_at": "2026-11-08T16:29:03.000Z",
+    "likes": 1859,
+    "retweets": 100,
+    "replies": 2,
+    "genres": [
+      "創作・イラスト"
+    ],
+    "genre_version": "v1-keyword"
+  },
+  {
+    "id": "2119463281480155363",
+    "url": "https://x.com/sub__pino/status/2119463281480155363",
+    "text": "※バレミティ\nお酒強い側と思ってた・・・",
+    "author": "@sub__pino",
+    "author_url": "https://x.com/sub__pino",
+    "posted_at": "2026-11-08T16:13:18.000Z",
+    "likes": 1440,
+    "retweets": 125,
+    "replies": 0,
+    "genres": [],
+    "genre_version": "v1-keyword"
+  },
+  {
+    "id": "2119466039008469237",
+    "url": "https://x.com/new_coun_desu/status/2119466039008469237",
+    "text": "泥に咲く",
+    "author": "@new_coun_desu",
+    "author_url": "https://x.com/new_coun_desu",
+    "posted_at": "2026-11-08T16:24:16.000Z",
+    "likes": 1309,
+    "retweets": 129,
+    "replies": 4,
+    "genres": [],
+    "genre_version": "v1-keyword"
+  },
+  {
+    "id": "2119463499571372492",
+    "url": "https://x.com/Ryouhey_Drunk/status/2119463499571372492",
+    "text": "ガチ楽しかった。みんな、ありがとう☺️\n\n#いつもの4人",
+    "author": "@Ryouhey_Drunk",
+    "author_url": "https://x.com/Ryouhey_Drunk",
+    "posted_at": "2026-11-08T16:14:10.000Z",
+    "likes": 1193,
+    "retweets": 151,
+    "replies": 47,
+    "genres": [
+      "日常系"
+    ],
+    "genre_version": "v1-keyword"
+  },
+  {
+    "id": "2119466587191382037",
+    "url": "https://x.com/Vaundy_AWS/status/2119466587191382037",
+    "text": "#Vaundy\n\nTHANK YOU !!❤️‍🔥\n\n2026.11.08\nバズリズム LIVE 2026\n\n年内ラストライブ\nありがとうございました!!\n\n\n@BUZZRHYTHM_NTV\n\n#バズライブ\n\n- - -\n\n📌JAPAN ARENA TOUR 2027-2028\n2027/12/4(土)&5(日)千葉公演\nVAWS premium先行受付中!!",
+    "author": "@Vaundy_AWS",
+    "author_url": "https://x.com/Vaundy_AWS",
+    "posted_at": "2026-11-08T16:26:26.000Z",
+    "likes": 1087,
+    "retweets": 146,
+    "replies": 9,
+    "genres": [
+      "日常系",
+      "音楽・芸能"
+    ],
+    "genre_version": "v1-keyword"
   }
 ]

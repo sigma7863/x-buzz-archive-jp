@@ -1,32 +1,78 @@
 [
   {
-    "id": "demo_0010",
-    "url": "https://x.com/example/status/7899643077055131000",
-    "text": "今日のツイートが全部刺さった日。ありがとうみんな。",
-    "author": "@demo_0010",
-    "author_url": "https://x.com/demo_0010",
-    "posted_at": "2026-11-07T20:00:00+09:00",
-    "likes": 6789,
-    "retweets": 1123,
-    "replies": 678,
-    "views": 814680,
-    "genres": [],
-    "genre_version": null,
-    "is_sample": true
+    "id": "2119444581268050354",
+    "url": "https://x.com/mazzel_official/status/2119444581268050354",
+    "text": "[おまけ]\n\n大奮闘する姿をぜひご覧ください\n\nby staff\n\n#MAZZEL\n#まぜジャック \n#MAZZEL_Touch",
+    "author": "@mazzel_official",
+    "author_url": "https://x.com/mazzel_official",
+    "posted_at": "2026-11-08T14:59:00.000Z",
+    "likes": 21015,
+    "retweets": 4910,
+    "replies": 211,
+    "genres": [
+      "音楽・芸能"
+    ],
+    "genre_version": "v1-keyword"
   },
   {
-    "id": "demo_0011",
-    "url": "https://x.com/example/status/6183527105058589000",
-    "text": "0円投資の罠、やっぱり勉強になった。",
-    "author": "@demo_0011",
-    "author_url": "https://x.com/demo_0011",
-    "posted_at": "2026-11-07T15:22:00+09:00",
-    "likes": 2987,
-    "retweets": 402,
-    "replies": 298,
-    "views": 358440,
-    "genres": [],
-    "genre_version": null,
-    "is_sample": true
+    "id": "2119444581486104620",
+    "url": "https://x.com/VIVANT_AKUYAKU/status/2119444581486104620",
+    "text": "エージェントの諸君ごきげんよう。\n\n我ら「#悪役会議室」のバックについてくれている\n「YA-MAN」からギフトが届いた🎁\n\n日本で話題の美顔器「ブルーグリーンマスク リフト」だ。\n\n✅応募方法\n①\n@VIVANT_AKUYAKU\nをフォロー \n②この投稿をリポスト  締切は11/14(土)  \n当選者(毎週1名)にはDMを送付する😈",
+    "author": "@VIVANT_AKUYAKU",
+    "author_url": "https://x.com/VIVANT_AKUYAKU",
+    "posted_at": "2026-11-08T14:59:00.000Z",
+    "likes": 4086,
+    "retweets": 1794,
+    "replies": 38,
+    "genres": [
+      "アニメ・漫画"
+    ],
+    "genre_version": "v1-keyword"
+  },
+  {
+    "id": "2119444392520159391",
+    "url": "https://x.com/ams_sm_t/status/2119444392520159391",
+    "text": "唐突なコナ哀で尊すぎた🥹🫶❤️💜\n\n#VIVANT #悪役会議室",
+    "author": "@ams_sm_t",
+    "author_url": "https://x.com/ams_sm_t",
+    "posted_at": "2026-11-08T14:58:15.000Z",
+    "likes": 1372,
+    "retweets": 84,
+    "replies": 2,
+    "genres": [
+      "アニメ・漫画"
+    ],
+    "genre_version": "v1-keyword"
+  },
+  {
+    "id": "2119444726596403454",
+    "url": "https://x.com/I_Nozomi_/status/2119444726596403454",
+    "text": "ラ・ヨダソウ・スティアーナ！！\n\n時オカリメイク配信ご視聴感謝！！！\nついに突入した大人編！！！！！\n救っていくか、世界のこと……😭",
+    "author": "@I_Nozomi_",
+    "author_url": "https://x.com/I_Nozomi_",
+    "posted_at": "2026-11-08T14:59:34.000Z",
+    "likes": 1309,
+    "retweets": 106,
+    "replies": 44,
+    "genres": [
+      "ゲーム",
+      "音楽・芸能"
+    ],
+    "genre_version": "v1-keyword"
+  },
+  {
+    "id": "2119444399419789655",
+    "url": "https://x.com/sakacho_6_7/status/2119444399419789655",
+    "text": "ドラムのスマホさん\n「一つだけ困ったことがあったよ！第11話の時にシャンパン飲まないでってセリフがあるんだけど監督が小声で言ってスマホなんだからボリューム下げてって思ったよ！」\nクソワロタwwwwwwwwwwwwwww\n#悪役会議室\n#VIVANT",
+    "author": "@sakacho_6_7",
+    "author_url": "https://x.com/sakacho_6_7",
+    "posted_at": "2026-11-08T14:58:16.000Z",
+    "likes": 1049,
+    "retweets": 68,
+    "replies": 2,
+    "genres": [
+      "アニメ・漫画"
+    ],
+    "genre_version": "v1-keyword"
   }
 ]

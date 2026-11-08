@@ -15,6 +15,20 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   title: "Xバズアーカイブ | 日本語でいいね1000超えの投稿集め",
   description: "X（旧Twitter）で日本語のバズ投稿（いいね1000以上）を日次で集めたアーカイブサイト。",
+  openGraph: {
+    title: "Xバズアーカイブ",
+    description: "日本語でバズっている投稿を「いいね1000以上」だけ集め、日付単位で眺められるサイト。",
+    type: "website",
+    locale: "ja_JP",
+  },
+  twitter: {
+    card: "summary",
+    title: "Xバズアーカイブ",
+    description: "日本語バズ投稿（いいね1000+）の日次アーカイブ",
+  },
+  icons: {
+    icon: "/favicon.svg",
+  },
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {

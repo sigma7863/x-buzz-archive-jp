@@ -12,6 +12,7 @@
     "collect": "bun run scripts/collect.ts",
     "import": "bun run scripts/import.ts",
     "validate": "bun run scripts/validate.ts",
+    "tag": "bun run scripts/tag.ts",
     "daily": "bash scripts/daily.sh",
     "daily:check": "bun run collect && bun run validate"
   },
