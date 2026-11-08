@@ -13,6 +13,8 @@
     "import": "bun run scripts/import.ts",
     "validate": "bun run scripts/validate.ts",
     "tag": "bun run scripts/tag.ts",
+    "tag:llm": "bun run scripts/tag-llm.ts",
+    "collect:pw": "bun run scripts/collect-playwright.ts",
     "daily": "bash scripts/daily.sh",
     "daily:check": "bun run collect && bun run validate"
   },
