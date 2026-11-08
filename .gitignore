@@ -39,3 +39,7 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# x-buzz-archive-jp data temp
+data/*.xquery
+data/import-*.json
