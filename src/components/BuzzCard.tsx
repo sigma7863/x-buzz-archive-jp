@@ -28,10 +28,13 @@ export function BuzzCard({ post }: { post: BuzzPost }) {
           target="_blank"
           rel="noopener noreferrer"
           className="line-clamp-1 font-mono text-sm font-medium text-sky-600 hover:underline dark:text-sky-400"
+          suppressHydrationWarning
         >
           {post.author}
         </a>
-        <time className="shrink-0 text-xs text-zinc-500">{formatDate(post.posted_at)}</time>
+        <time className="shrink-0 text-xs text-zinc-500" suppressHydrationWarning>
+          {formatDate(post.posted_at)}
+        </time>
       </div>
 
       <p className="whitespace-pre-wrap text-sm leading-6 text-zinc-800 dark:text-zinc-100">{post.text}</p>
@@ -70,6 +73,7 @@ export function BuzzCard({ post }: { post: BuzzPost }) {
           target="_blank"
           rel="noopener noreferrer"
           className="ml-auto font-medium text-sky-600 hover:underline dark:text-sky-400"
+          suppressHydrationWarning
         >
           Xで見る →
         </a>
