@@ -1,0 +1,32 @@
+[
+  {
+    "id": "demo_0010",
+    "url": "https://x.com/example/status/7899643077055131000",
+    "text": "今日のツイートが全部刺さった日。ありがとうみんな。",
+    "author": "@demo_0010",
+    "author_url": "https://x.com/demo_0010",
+    "posted_at": "2026-11-07T20:00:00+09:00",
+    "likes": 6789,
+    "retweets": 1123,
+    "replies": 678,
+    "views": 814680,
+    "genres": [],
+    "genre_version": null,
+    "is_sample": true
+  },
+  {
+    "id": "demo_0011",
+    "url": "https://x.com/example/status/6183527105058589000",
+    "text": "0円投資の罠、やっぱり勉強になった。",
+    "author": "@demo_0011",
+    "author_url": "https://x.com/demo_0011",
+    "posted_at": "2026-11-07T15:22:00+09:00",
+    "likes": 2987,
+    "retweets": 402,
+    "replies": 298,
+    "views": 358440,
+    "genres": [],
+    "genre_version": null,
+    "is_sample": true
+  }
+]

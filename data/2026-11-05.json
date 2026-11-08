@@ -1,0 +1,32 @@
+[
+  {
+    "id": "demo_0007",
+    "url": "https://x.com/example/status/4171657587236313000",
+    "text": "新幹線の車内販売、久しぶりに来たらアイスの種類が増えてた。",
+    "author": "@demo_0007",
+    "author_url": "https://x.com/demo_0007",
+    "posted_at": "2026-11-05T10:05:00+09:00",
+    "likes": 1678,
+    "retweets": 210,
+    "replies": 167,
+    "views": 201360,
+    "genres": [],
+    "genre_version": null,
+    "is_sample": true
+  },
+  {
+    "id": "demo_0008",
+    "url": "https://x.com/example/status/6205909902910541000",
+    "text": "「ジャンル分けが後」と言われて1週間迷う系ジョークが刺さる。",
+    "author": "@demo_0008",
+    "author_url": "https://x.com/demo_0008",
+    "posted_at": "2026-11-05T19:48:00+09:00",
+    "likes": 2345,
+    "retweets": 333,
+    "replies": 234,
+    "views": 281400,
+    "genres": [],
+    "genre_version": null,
+    "is_sample": true
+  }
+]

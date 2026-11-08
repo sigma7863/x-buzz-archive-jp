@@ -1,0 +1,32 @@
+[
+  {
+    "id": "demo_0012",
+    "url": "https://x.com/example/status/3338120491506425300",
+    "text": "日曜日出勤のスタバが混みすぎてリモートに戻りたくなった。",
+    "author": "@demo_0012",
+    "author_url": "https://x.com/demo_0012",
+    "posted_at": "2026-11-08T09:45:00+09:00",
+    "likes": 1890,
+    "retweets": 256,
+    "replies": 189,
+    "views": 226800,
+    "genres": [],
+    "genre_version": null,
+    "is_sample": true
+  },
+  {
+    "id": "demo_0013",
+    "url": "https://x.com/example/status/3184670913949566000",
+    "text": "AIが書いた詩がエモくて泣いた。",
+    "author": "@demo_0013",
+    "author_url": "https://x.com/demo_0013",
+    "posted_at": "2026-11-08T22:15:00+09:00",
+    "likes": 5432,
+    "retweets": 789,
+    "replies": 543,
+    "views": 651840,
+    "genres": [],
+    "genre_version": null,
+    "is_sample": true
+  }
+]

@@ -1,0 +1,39 @@
+name: Deploy (build check)
+
+on:
+  push:
+    branches: ["main"]
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Setup Bun
+        uses: oven-sh/setup-bun@v2
+        with:
+          bun-version: latest
+
+      - name: Install (Bun)
+        run: bun install --frozen-lockfile
+
+      - name: Validate data
+        run: bun run validate
+
+      - name: Build (Next.js SSG)
+        run: bun run build
+
+      - name: Upload build artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: next-build
+          path: .next
+          retention-days: 7
+
+# デプロイ先（Vercel等）がGit連携している場合、pushで自動再デプロイされる想定。
+# もしGitHub Pagesへ出したい場合は、以下を build の後段に追加してください：
+#   - uses: actions/configure-pages@v4
+#   - uses: actions/upload-pages-artifact@v3
+#   - uses: actions/deploy-pages@v4

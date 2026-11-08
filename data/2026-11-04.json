@@ -1,0 +1,32 @@
+[
+  {
+    "id": "onAir_001",
+    "url": "https://x.com/example/status/7804279881676362000",
+    "text": "今夜のライブ配信、チャットが止まらなくて面白い。",
+    "author": "@onAir_001",
+    "author_url": "https://x.com/onAir_001",
+    "posted_at": "2026-11-04T21:00:00+09:00",
+    "likes": 5021,
+    "retweets": 901,
+    "replies": 502,
+    "views": 602520,
+    "genres": [],
+    "genre_version": null,
+    "is_sample": true
+  },
+  {
+    "id": "demo_0006",
+    "url": "https://x.com/example/status/6589515604273742000",
+    "text": "React Router v7のSSR、やっぱり直感的だな。",
+    "author": "@demo_0006",
+    "author_url": "https://x.com/demo_0006",
+    "posted_at": "2026-11-04T11:33:00+09:00",
+    "likes": 1234,
+    "retweets": 180,
+    "replies": 123,
+    "views": 148080,
+    "genres": [],
+    "genre_version": null,
+    "is_sample": true
+  }
+]

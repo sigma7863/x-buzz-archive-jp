@@ -1,0 +1,47 @@
+[
+  {
+    "id": "demo_0001",
+    "url": "https://x.com/example/status/2287310773785522000",
+    "text": "今日は完全に詰んだ。あと1週間で期末なのに、資料が1枚もできてない。",
+    "author": "@demo_0001",
+    "author_url": "https://x.com/demo_0001",
+    "posted_at": "2026-11-02T09:12:00+09:00",
+    "likes": 3421,
+    "retweets": 512,
+    "replies": 342,
+    "views": 410520,
+    "genres": [],
+    "genre_version": null,
+    "is_sample": true
+  },
+  {
+    "id": "demo_0002",
+    "url": "https://x.com/example/status/5393637508909721000",
+    "text": "ラーメン二郎松戸店、開店から1時間で完売なのさすが過ぎる。豚が別格だった。",
+    "author": "@demo_0002",
+    "author_url": "https://x.com/demo_0002",
+    "posted_at": "2026-11-02T13:40:00+09:00",
+    "likes": 2890,
+    "retweets": 410,
+    "replies": 289,
+    "views": 346800,
+    "genres": [],
+    "genre_version": null,
+    "is_sample": true
+  },
+  {
+    "id": "demo_0003",
+    "url": "https://x.com/example/status/7536878378863117000",
+    "text": "生成AIで朝ドラの紹介ポスターを作ってみた。色味がマジで良い。",
+    "author": "@demo_0003",
+    "author_url": "https://x.com/demo_0003",
+    "posted_at": "2026-11-02T18:02:00+09:00",
+    "likes": 1987,
+    "retweets": 301,
+    "replies": 198,
+    "views": 238440,
+    "genres": [],
+    "genre_version": null,
+    "is_sample": true
+  }
+]

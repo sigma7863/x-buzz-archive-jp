@@ -1,0 +1,32 @@
+[
+  {
+    "id": "demo_0004",
+    "url": "https://x.com/example/status/2867953395092273000",
+    "text": "雨の日の登山はやめろと朝から言ったのに、頂上はガスで何も見えなかった。でも遭難しなくてよかった。",
+    "author": "@demo_0004",
+    "author_url": "https://x.com/demo_0004",
+    "posted_at": "2026-11-03T08:20:00+09:00",
+    "likes": 4123,
+    "retweets": 698,
+    "replies": 412,
+    "views": 494760,
+    "genres": [],
+    "genre_version": null,
+    "is_sample": true
+  },
+  {
+    "id": "demo_0005",
+    "url": "https://x.com/example/status/3025178408921012000",
+    "text": "駅のベンチで寝てたおばちゃんが「元気出して」ってお茶をくれた。日本って優しい。",
+    "author": "@demo_0005",
+    "author_url": "https://x.com/demo_0005",
+    "posted_at": "2026-11-03T16:15:00+09:00",
+    "likes": 2566,
+    "retweets": 389,
+    "replies": 256,
+    "views": 307920,
+    "genres": [],
+    "genre_version": null,
+    "is_sample": true
+  }
+]

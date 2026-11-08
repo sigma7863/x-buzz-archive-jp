@@ -1,0 +1,32 @@
+[
+  {
+    "id": "demo_0009",
+    "url": "https://x.com/example/status/2132876642274509000",
+    "text": "深夜のコンビニ、焼き芋が40%引きで買えた。",
+    "author": "@demo_0009",
+    "author_url": "https://x.com/demo_0009",
+    "posted_at": "2026-11-06T23:10:00+09:00",
+    "likes": 3120,
+    "retweets": 445,
+    "replies": 312,
+    "views": 374400,
+    "genres": [],
+    "genre_version": null,
+    "is_sample": true
+  },
+  {
+    "id": "chef_010",
+    "url": "https://x.com/example/status/3988828837177068000",
+    "text": "自家製パン。粉の配合を変えたらふわふわになった。",
+    "author": "@chef_010",
+    "author_url": "https://x.com/chef_010",
+    "posted_at": "2026-11-06T07:30:00+09:00",
+    "likes": 1456,
+    "retweets": 201,
+    "replies": 145,
+    "views": 174720,
+    "genres": [],
+    "genre_version": null,
+    "is_sample": true
+  }
+]
