@@ -12,7 +12,7 @@
     "genres": [
       "音楽・芸能"
     ],
-    "genre_version": "v1-keyword"
+    "genre_version": "v2-llm"
   },
   {
     "id": "2119520336366502036",
@@ -24,8 +24,10 @@
     "likes": 3363,
     "retweets": 1132,
     "replies": 12,
-    "genres": [],
-    "genre_version": "v1-keyword"
+    "genres": [
+      "音楽・芸能"
+    ],
+    "genre_version": "v2-llm"
   },
   {
     "id": "2119520343346053494",
@@ -37,8 +39,10 @@
     "likes": 1954,
     "retweets": 642,
     "replies": 6,
-    "genres": [],
-    "genre_version": "v1-keyword"
+    "genres": [
+      "音楽・芸能"
+    ],
+    "genre_version": "v2-llm"
   },
   {
     "id": "2119520361360633897",
@@ -50,8 +54,10 @@
     "likes": 1570,
     "retweets": 505,
     "replies": 16,
-    "genres": [],
-    "genre_version": "v1-keyword"
+    "genres": [
+      "音楽・芸能"
+    ],
+    "genre_version": "v2-llm"
   },
   {
     "id": "2119516513573224932",
@@ -64,9 +70,9 @@
     "retweets": 219,
     "replies": 73,
     "genres": [
-      "音楽・芸能"
+      "ゲーム"
     ],
-    "genre_version": "v1-keyword"
+    "genre_version": "v2-llm"
   },
   {
     "id": "2119518820280807777",
@@ -78,8 +84,10 @@
     "likes": 1157,
     "retweets": 69,
     "replies": 2,
-    "genres": [],
-    "genre_version": "v1-keyword"
+    "genres": [
+      "ゲーム"
+    ],
+    "genre_version": "v2-llm"
   },
   {
     "id": "2119508656123429295",
@@ -91,7 +99,9 @@
     "likes": 1076,
     "retweets": 161,
     "replies": 0,
-    "genres": [],
-    "genre_version": "v1-keyword"
+    "genres": [
+      "ゲーム"
+    ],
+    "genre_version": "v2-llm"
   }
 ]

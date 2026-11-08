@@ -14,6 +14,7 @@
     "validate": "bun run scripts/validate.ts",
     "tag": "bun run scripts/tag.ts",
     "tag:llm": "bun run scripts/tag-llm.ts",
+    "tag:agent": "bun run scripts/tag-agent.ts",
     "collect:pw": "bun run scripts/collect-playwright.ts",
     "daily": "bash scripts/daily.sh",
     "daily:check": "bun run collect && bun run validate"

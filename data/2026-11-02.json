@@ -9,8 +9,10 @@
     "likes": 5597,
     "retweets": 420,
     "replies": 6,
-    "genres": [],
-    "genre_version": "v1-keyword"
+    "genres": [
+      "日常系"
+    ],
+    "genre_version": "v2-llm"
   },
   {
     "id": "2117632822672597423",
@@ -22,8 +24,10 @@
     "likes": 3568,
     "retweets": 627,
     "replies": 7,
-    "genres": [],
-    "genre_version": "v1-keyword"
+    "genres": [
+      "政治・社会"
+    ],
+    "genre_version": "v2-llm"
   },
   {
     "id": "2117632817073152181",
@@ -36,10 +40,9 @@
     "retweets": 496,
     "replies": 100,
     "genres": [
-      "日常系",
-      "グルメ・生活"
+      "日常系"
     ],
-    "genre_version": "v1-keyword"
+    "genre_version": "v2-llm"
   },
   {
     "id": "2117632819501711437",
@@ -51,8 +54,10 @@
     "likes": 1780,
     "retweets": 95,
     "replies": 0,
-    "genres": [],
-    "genre_version": "v1-keyword"
+    "genres": [
+      "日常系"
+    ],
+    "genre_version": "v2-llm"
   },
   {
     "id": "2117632892054724747",
@@ -65,10 +70,10 @@
     "retweets": 147,
     "replies": 0,
     "genres": [
-      "日常系",
+      "音楽・芸能",
       "グルメ・生活"
     ],
-    "genre_version": "v1-keyword"
+    "genre_version": "v2-llm"
   },
   {
     "id": "2117632865932550578",
@@ -83,7 +88,7 @@
     "genres": [
       "政治・社会"
     ],
-    "genre_version": "v1-keyword"
+    "genre_version": "v2-llm"
   },
   {
     "id": "2117632855224512731",
@@ -95,7 +100,9 @@
     "likes": 1035,
     "retweets": 51,
     "replies": 2,
-    "genres": [],
-    "genre_version": "v1-keyword"
+    "genres": [
+      "アニメ・漫画"
+    ],
+    "genre_version": "v2-llm"
   }
 ]
